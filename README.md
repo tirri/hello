@@ -28,3 +28,7 @@ Twenty
 --------------------------------------------------------------------------------------
 
 Very many
+
+---
+
+So small line, 1 or two minuses and thicker, 3 or more. 
