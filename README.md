@@ -8,3 +8,7 @@ GitHub seems to be a handy tool.
 Thanks Coursera for introducing me to it!
 
 Is the line here automatically or not?
+
+-
+
+How many minus symbols do i need to create a line? Here's one.
