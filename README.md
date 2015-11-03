@@ -12,3 +12,19 @@ Is the line here automatically or not?
 -
 
 How many minus symbols do i need to create a line? Here's one.
+
+--
+
+Two
+
+---
+
+Three
+
+--------------------
+
+Twenty
+
+--------------------------------------------------------------------------------------
+
+Very many
